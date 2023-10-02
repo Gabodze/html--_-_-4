@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter-Regular-400.ttf);
+}
+
+
+body{
+    width: 1728px;
+    height: 1117px;
+    top: -559px;
+    left: -864px;
+}
+h1, h6, p{margin-left: 38px;}
+h1{
+    width: 260px;
+    height: 30px;
+    top: 27px;
+    left: 38px;
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.p1{
+    margin-top: 2px;
+    width: 1655px;
+    height: 55px;
+    top: 59px;
+    left: 38px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h6{
+    margin-top: 21px;
+    width: 146px;
+    height: 17px;
+    top: 135px;
+    left: 38px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.p2{
+    margin-top: 15px;
+    width: 1655px;
+    height: 55px;
+    top: 167px;
+    left: 38px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
